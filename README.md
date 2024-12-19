@@ -1,9 +1,8 @@
 
 ## Olá! Me chamo Milena 😊
 
-🐱‍💻 Sou Analista de Qualidade em TI | ✏️ Estudando Java e automação de testes | 😄 Pronomes: ela/dela
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missouza96&layout=compact&theme=radical)](https://github.com/missouza96/github-readme-stats)
+🐱‍💻 Sou Analista de Qualidade em TI | ✏️ Estudando automação de testes  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missouza96&layout=compact&theme=radical)](https://github.com/missouza96/github-readme-stats)
   
  
 <div> 
